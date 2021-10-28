@@ -1,3 +1,64 @@
+<!-- Please update value in the {}  -->
+
+<h1 align="center">{Your project name}</h1>
+
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://{your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://{your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/rYyhwJAxMfES5jNQ9YsP">
+      Challenge
+    </a>
+  </h3>
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [How to use](#how-to-use)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+This project show a list of images, you can upload an image from an URL, set its label and password and then you will see it in the list.
+You can search any image using the label and you can delete it using the password with was created.
+The project is responsive, for mobile I using a hamburger button to show the search and create options.
+
+### Built With
+
+Front-End Tools
+
+- [React](https://reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [Styled-Components](https://styled-components.com/)
+- [React-Icons](https://react-icons.github.io/react-icons/)
+
+Back-End Tools
+
+- [NestJS](https://nestjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+
+## Features
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/rYyhwJAxMfES5jNQ9YsP) was to build an application to complete the given user stories.
+
+## How To Use ----------------->
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
